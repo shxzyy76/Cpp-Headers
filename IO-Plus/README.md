@@ -19,7 +19,7 @@ int main(){
 #include "IO-Plus.h"
 int main(){
   int a = 23;
-  print("%v", a);
+  print("%v", a); // %v is basically a command to for print variable
   return 0;
 }
 ```
