@@ -3,7 +3,8 @@ In this header its a simple program that allows you to convert a varibles dataty
 
 ___
 
-the basic syntax for this is: 
+Example Code: 
+
 ```cpp
 #include "Conversion.h"
 #include <numbers>
