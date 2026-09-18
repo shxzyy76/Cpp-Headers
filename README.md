@@ -10,4 +10,4 @@ ___
 - For People who wants fast typing and readability in `C++`.
 - And for people who came from other languages like python who wants simple syntax in `C++`
 
-  ___
+___
